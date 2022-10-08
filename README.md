@@ -1,1 +1,1 @@
-My first proj
+#!/bin/bash
